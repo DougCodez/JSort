@@ -1,6 +1,6 @@
 ## What Is JSort? 
 
-JSort is a visual sorting algorithm that gives you the option to use a variety of sorting algorithms to sort a data set of either random generated numbers or custom data set numbers (be sure to put commas number after number), and you can edit the speed of how fast the algorithm performs the sorting algorithm.
+JSort is a visual sorting algorithm that gives you the option to use a variety of sorting algorithms to sort a data set of either random generated numbers or a custom data set of numbers (be sure to put commas number after number), and you can edit the speed of how fast the algorithm performs the sorting algorithm. A console is provided as you can see the output of your edits or results. 
 
 ## Visual Showcase
 Down below you can find a video showcasing how the program works.
